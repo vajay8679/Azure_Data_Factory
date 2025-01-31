@@ -1,3 +1,3 @@
 # Section 1: Introduction
 
-# 1. Course Introduction
+## 1. Course Introduction
